@@ -18,7 +18,7 @@ docker compose version
 1. Clone the repository and move into the project root:
 
    ```bash
-   git clone https://github.com/Sirchella/Distributed-Waste-Management-System.git
+   git clone https://github.com/sas-bergson/Distributed-Waste-Management-System.git
    cd Distributed-Waste-Management-System
    ```
 

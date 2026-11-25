@@ -22,3 +22,8 @@ services:
 
 volumes:
   prometheus-data:
+
+networks:
+  default:
+    name: dwms-net
+    external: true

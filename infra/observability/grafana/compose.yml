@@ -21,3 +21,8 @@ services:
 
 volumes:
   grafana-data:
+
+networks:
+  default:
+    name: dwms-net
+    external: true
